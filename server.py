@@ -17,7 +17,6 @@ while True:
    c.close()                # Close the connection
   
 
-
    
-http://www.binarytides.com/python-socket-programming-tutorial/
-https://docs.python.org/2/library/socket.html
+# http://www.binarytides.com/python-socket-programming-tutorial/
+# https://docs.python.org/2/library/socket.html
