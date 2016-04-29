@@ -40,5 +40,5 @@ augur = GPIO.PWM(7,400)
 
 s.close                     # Close the socket when done
 
-http://www.binarytides.com/python-socket-programming-tutorial/
-https://docs.python.org/2/library/socket.html
+# http://www.binarytides.com/python-socket-programming-tutorial/
+# https://docs.python.org/2/library/socket.html
