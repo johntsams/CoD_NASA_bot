@@ -1,4 +1,4 @@
-﻿import socket               # Import socket module 
+import socket               # Import socket module 
 
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)         # Create a socket object
